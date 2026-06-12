@@ -8,9 +8,7 @@
 
 ## 🎯 图片演示
 
-<img src="https://www.991123.xyz/up/668.jpg" width="600">
-<img src="https://www.991123.xyz/up/66R.jpg" width="600">
-<img src="https://www.991123.xyz/up/668.jpg" width="60O">
+<img src="https://www.991123.xyz/up/660.jpg" width="600">
 
 ---
 
