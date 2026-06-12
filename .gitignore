@@ -1,0 +1,17 @@
+# PHP 项目通用配置
+/vendor/
+composer.lock
+*.log
+*.tmp
+*.cache
+.env
+.env.local
+
+# 你的项目专属文件（防止数据泄露）
+sms_data.json
+sms_log.txt
+heartbeat.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
